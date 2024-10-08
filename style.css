@@ -26,7 +26,7 @@ body {
 }
 
 main {
-    margin-top: 5%;
+    margin-top: 10%;
     color: var(--branco);
     background-color: var(--neutro);
 
@@ -40,10 +40,9 @@ main {
 
 
     border-radius: 16px;
-    margin-bottom: 5%;
 }
 footer{
-    
+    margin-top: 1%;
     display: flex;
     align-items: center;
 
@@ -61,6 +60,7 @@ footer{
     height: 64px;
 }
 footer a{
+
     text-decoration: none;
     color: var(--branco);
 }
