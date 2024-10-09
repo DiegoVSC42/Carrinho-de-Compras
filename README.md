@@ -2,6 +2,8 @@
 
 Este projeto é uma aplicação web para gerenciar um carrinho de compras. Permite adicionar itens com nome, valor e quantidade, além de atualizar o valor total automaticamente conforme os itens são adicionados, editados ou excluídos.
 
+[Clique aqui](https://diegovsc42.github.io/Carrinho-de-Compras/) para acessar a aplicação.
+
 ## Funcionalidades
 
 - **Adicionar itens:** Insira o nome e o valor do item, e ele será adicionado à lista de compras.
